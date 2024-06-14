@@ -1,0 +1,21 @@
+
+
+label{
+    color: #d19900;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    font-family: "Bauhaus 93";
+    font-size: 60px;
+
+}
+body{
+
+     background-image: url("https://img.freepik.com/vector-gratis/fondo-piedra-trazos-dorados_125540-130.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      font-family: Verdana !important;
+    
+}
